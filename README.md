@@ -11,9 +11,7 @@
 
   <p align="center">
     Веб-приложение для ведения тренировок.
-    <br />
-    <a href="https://system.orange-city.ru"><strong>Открыть сайт »</strong></a>
-    <br />
+    <br 
   </p>
 </div>
 
@@ -45,7 +43,7 @@
 
 ## Описание проекта
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
 Проект представляет собой веб-приложение, которое позволяет записывать результаты тренировок, вести аналитику и ставить личные цели.
 
@@ -75,8 +73,6 @@
 
 
 ## Использование
-
-Воспользоваться сайтом можно по URL [system.orange-city.ru](https://system.orange-city.ru/)
 
 ### Сборка и запуск проекта
 
